@@ -1,6 +1,4 @@
-Certainly! Here's a GitHub repository README template for the project described in the rationale document:
 
----
 
 # CareShare Donation Management System
 
